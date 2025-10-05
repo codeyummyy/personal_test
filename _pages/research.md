@@ -16,3 +16,5 @@ excerpt: "NSRRC AES/AED · Chaos & Pendulum · Quantum/Materials notes"
 ### 3) Nonlinear Visual Language for Problem-Solving (pilot)
 - **What I did**: Designed a circular/visual representation to reduce extraneous cognitive load in physics problem solving.
 - **Artifacts**: [[Brief PDF]]({{ site.baseurl }}/files/Wang_NonlinearLanguage_Brief.pdf) · [[Poster]]({{ site.baseurl }}/files/Wang_NonlinearLanguage_Poster.pdf)
+
+- 
