@@ -1,0 +1,10 @@
+# Top navigation for AcademicPages
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Projects"
+    url: /projects/
+  - title: "Outreach/Talks"
+    url: /outreach/
+  - title: "Downloads"
+    url: /downloads/

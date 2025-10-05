@@ -1,0 +1,56 @@
+# Site settings
+title: "Eve Wang — Physics × CS"
+subtitle: "Quantum & Materials · Scientific Computing · Outreach"
+repository: "eve-wang/eve-wang.github.io"  # <-- change to your repo
+url: ""   # set to "https://<your-username>.github.io"
+baseurl: ""
+
+# Build settings
+remote_theme: "academicpages/academicpages"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# Author
+author:
+  name: "Hung-Yu (Eve) Wang"
+  avatar: "assets/img/hero.jpg"
+  bio: "Physics × CS | NTU Physics Talent Program · NSRRC AES/AED · Science communication (TEDx)"
+  location: "Hsinchu, Taiwan"
+  email: "eve.applications@proton.me"  # <-- change to your email
+  github: "eve-wang"                    # <-- change to your GitHub username
+  scholar: ""                           # optional
+  orcid: ""                             # optional
+  twitter: ""                           # optional
+
+# Collections
+collections:
+  teaching:
+    output: true
+  projects:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "single"
+      author_profile: true
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+
+# Per-page defaults
+teaser: "assets/img/hero.jpg"
+
+# Analytics (optional)
+analytics:
+  provider: false
+
+# Footer note
+last_updated: "2025-10"
