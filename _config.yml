@@ -2,8 +2,8 @@ title: "Eve Wang — Physics x CS"
 subtitle: "Quantum, Materials, Scientific Computing, Outreach"
 
 # REQUIRED for your repo
-repository: "eve/personal_test"
-url: "https://eve.github.io"
+repository: "codeyummyy/personal_test"
+url: "https://codeyummyy.github.io"
 baseurl: "/personal_test"
 
 remote_theme: "academicpages/academicpages"
