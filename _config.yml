@@ -1,9 +1,9 @@
 # Site settings
 title: "Eve Wang — Physics × CS"
 subtitle: "Quantum & Materials · Scientific Computing · Outreach"
-repository: "codeyummyy/codeyummyy.github.io"  # <-- change to your repo
-url: ""   # set to "https://codeyummyy.github.io"
-baseurl: ""
+repository: "codeyummyy/personal_test"  # <-- change to your repo
+url: "https://codeyummyy.github.io"   # set to "https://codeyummyy.github.io"
+baseurl: "/personal_test"
 
 # Build settings
 remote_theme: "academicpages/academicpages"
@@ -15,7 +15,7 @@ plugins:
 # Author
 author:
   name: "Hung-Yu (Eve) Wang"
-  avatar: "assets/img/hero.jpg"
+  avatar: "{{ site.baseurl }}assets/img/hero.jpg"
   bio: "Physics × CS | NTU Physics Talent Program · NSRRC AES/AED · Science communication (TEDx)"
   location: "Hsinchu, Taiwan"
   email: "eve.applications@proton.me"  # <-- change to your email
@@ -46,7 +46,7 @@ defaults:
       author_profile: true
 
 # Per-page defaults
-teaser: "assets/img/hero.jpg"
+teaser: "{{ site.baseurl }}assets/img/hero.jpg"
 
 # Analytics (optional)
 analytics:
