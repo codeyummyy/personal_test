@@ -1,8 +1,8 @@
-# Site settings
+m# Site settings
 title: "Eve Wang — Physics × CS"
 subtitle: "Quantum & Materials · Scientific Computing · Outreach"
-repository: "eve/personal_test"  # <-- change to your repo
-url: "https://eve.github.io"   # set to "https://<your-username>.github.io"
+repository: "codeyummyy/personal_test"  # <-- change to your repo
+url: "https://codeyummyy.github.io"   # set to "https://<your-username>.github.io"
 baseurl: "/personal_test"
 
 # Build settings
